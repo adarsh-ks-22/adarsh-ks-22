@@ -1,8 +1,8 @@
 <div align="center">
-    <h1>Hai, I am <a>Adarsh</a> <img
+    <h1>Hello, I am <a>Adarsh</a> <img
             src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
     <img alt="Developer Pic"
-        src="https://github.com/adarsh-ks-22/adarsh-ks-22/blob/master/71c204e4a2d46b4ef49d2277b563e064.png" width="260"/>
+        src="https://github.com/adarsh-ks-22/adarsh-ks-22/blob/master/71c204e4a2d46b4ef49d2277b563e064.png" width="240"/>
     <br/><br/>
     <p>🙏🏻 Welcome to my Github profile!<br />
         I am a <b>DevOps Engineer</b> 🖥️ from <b>Kerala, India 🌴</b>.<br />
@@ -27,7 +27,7 @@
         <ul>
             <li> 👨🏻‍💻 I'm currently focused on upskilling and expanding my DevOps expertise. ✍🏻</li>
             <li> 💬 Ask me about DevOps ♾️ , Cloud Computing ☁️.
-            <li> 🎓 I'm currently mastering Kubernetes <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="17" /></li>
+            <li> 🎓 I'm currently mastering Kubernetes Administration <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="17" /></li>
             <li>📫 How to reach me: <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" width="17" />
                 <a href="mailto:ksadarsh618@gmail.com" target="_blank">ksadarsh618@gmail.com</a></li>

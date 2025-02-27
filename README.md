@@ -1,11 +1,5 @@
 <p align="left">Hi 👋</p>
-
-###
-
 <p align="left">🙏🏻 Welcome to my Github profile!<br><br>I'm Adarsh <br>I am a DevOps Engineer 🚀</p>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="38" alt="linux logo"  />
   <img width="14" />
@@ -33,8 +27,6 @@
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="38" alt="googlecloud logo"  />
 </div>
-
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/adarsh-ks/" target="_blank">

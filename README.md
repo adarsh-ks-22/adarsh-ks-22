@@ -27,7 +27,7 @@
         <ul>
             <li> 👨🏻‍💻 I'm currently focused on upskilling and expanding my DevOps expertise. ✍🏻</li>
             <li> 💬 Ask me about DevOps ♾️ , Cloud Computing ☁️.
-            <li> 🎓 I'm currently learning Kubernetes <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="17" /></li>
+            <li> 🎓 I'm currently mastering Kubernetes <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="17" /></li>
             <li>📫 How to reach me: <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" width="17" />
                 <a href="mailto:ksadarsh618@gmail.com" target="_blank">ksadarsh618@gmail.com</a></li>

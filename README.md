@@ -5,7 +5,7 @@
         src="https://user-images.githubusercontent.com/49222186/110210369-58458c80-7eb7-11eb-9d6e-2129358b3098.png" width="350"/>
     <br/><br/>
     <p>🙏🏻 Welcome to my Github profile!<br />
-        I am a <b>DevOps Engineer</b> 🖥️ from <b>Kerala, India 🌴</b>.<br /><br />
+        I am a <b>DevOps Engineer</b> 🖥️ from <b>Kerala, India 🌴</b>.<br />
          Experienced in DevOps methodologies, Cloud Computing, AWS services, IaC, Containerization, and  CI/CD implementation </p>
     <div>
         <a href="[https://www.linkedin.com/in/adarsh-ks/](https://www.linkedin.com/in/adarsh-ks/)" target="_blank"><img alt="LinkedIn"

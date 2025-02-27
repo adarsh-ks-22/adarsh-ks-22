@@ -2,7 +2,7 @@
     <h1>Hai, I am <a>Adarsh</a> <img
             src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
     <img alt="Developer Pic"
-        src="https://github.com/adarsh-ks-22/adarsh-ks-22/blob/master/71c204e4a2d46b4ef49d2277b563e064.png" width="280"/>
+        src="https://github.com/adarsh-ks-22/adarsh-ks-22/blob/master/71c204e4a2d46b4ef49d2277b563e064.png" width="260"/>
     <br/><br/>
     <p>🙏🏻 Welcome to my Github profile!<br />
         I am a <b>DevOps Engineer</b> 🖥️ from <b>Kerala, India 🌴</b>.<br />

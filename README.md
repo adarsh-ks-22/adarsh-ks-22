@@ -1,5 +1,5 @@
-<p align="left">Hi 👋</p>
-<p align="left">🙏🏻 Welcome to my Github profile!<br><br>I'm Adarsh <br>I am a DevOps Engineer 🚀</p>
+<p align="left">Hai I'm Adarsh K S👋</p>
+<p align="left">🙏🏻 Welcome to my Github profile!<br>I am a DevOps Engineer 🚀</p>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="38" alt="linux logo"  />
   <img width="14" />

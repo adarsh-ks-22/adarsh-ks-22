@@ -26,7 +26,7 @@
             What I'm up to</h2>
         <ul>
             <li> 👨🏻‍💻 I'm currently focused on upskilling and expanding my DevOps expertise. ✍🏻</li>
-            <li> 💬 Ask me about DevOps, Cloud Computing
+            <li> 💬 Ask me about DevOps ♾️ , Cloud Computing ☁️.
             <li> 🎓 I'm currently learning Kubernetes <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="17" /></li>
             <li>📫 How to reach me: <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" width="17" />

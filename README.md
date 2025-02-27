@@ -77,8 +77,6 @@
 <hr />
 </br>
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=adarsh-ks-22&color=brightgreen&style=flat-square&label=PROFILE+VIEWS +"
-        width="130" /><br />
     <a href="https://www.buymeacoffee.com/adarsh-ks-22" target="_blank"><img
             src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" width="200"></a>
 </div>

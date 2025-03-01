@@ -8,7 +8,7 @@
         I am a <b>DevOps Engineer</b> 🖥️ from <b>Kerala, India 🌴</b>.<br />
          Experienced in DevOps methodologies, Cloud Computing, AWS services, IaC, Containerization, and  CI/CD implementation </p>
     <div>
-        <a href="[https://www.linkedin.com/in/adarsh-ks/](https://www.linkedin.com/in/adarsh-ks/)" target="_blank"><img alt="LinkedIn"
+        <a href="https://www.linkedin.com/in/adarsh-ks/" target="_blank"><img alt="LinkedIn"
                 src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
         <a href="mailto:ksadarsh618@gmail.com" target="_blank"><img alt="Gmail"
                 src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>

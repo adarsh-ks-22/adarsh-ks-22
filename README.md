@@ -4,7 +4,7 @@
     <img alt="Developer Pic"
         src="https://github.com/adarsh-ks-22/adarsh-ks-22/blob/master/71c204e4a2d46b4ef49d2277b563e064.png" width="240"/>
     <br/><br/>
-    <p>🙏🏻 Welcome to my Github profile!<br />
+    <p><br />
         I am a <b>DevOps Engineer</b> 🖥️ from <b>Kerala, India 🌴</b>.<br />
          Experienced in DevOps methodologies, Cloud Computing, AWS services, IaC, Containerization, and  CI/CD implementation </p>
     <div>
